@@ -40,7 +40,7 @@ public class EntradablogJRIN {
 		
 		
 /**
- * @return Devuelve el número de la entrada
+ * @return Devuelve el número de la entrada.
  */
 		public int getId(){
 			return this.id;
